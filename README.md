@@ -3,7 +3,7 @@
 Just finding my way around GitHub 🤔 😊.
 
 - 🔭 I’m currently working on a range of music / sound projects.
-- 🌱 I’m currently learning live coding using Strudel and Todal Cycles.
+- 🌱 I’m currently learning live coding using Strudel and Tidal Cycles.
 - 🎦 I'm currently volunteering for KPD Screen a community cinema in SW Scotland.
 - 👯 I’m looking to collaborate on music production and improvisation.
 - 🤔 I’m looking for help with ... finding a label to promote my music.
